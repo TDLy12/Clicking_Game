@@ -155,3 +155,4 @@ while True:
 
 pygame.display.update() 
 
+print("Hello")
